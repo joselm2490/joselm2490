@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/PJSSDYpd/Gemini-Generated-Image-y5htc1y5htc1y5ht.png" alt="Banner de presentación">
+  <img src="https://i.postimg.cc/MKjsHM6g/Gemini-Generated-Image-oeqnmyoeqnmyoeqn.png" alt="Banner de presentación">
 </p>
 
 <p align="center">
