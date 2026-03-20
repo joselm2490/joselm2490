@@ -7,13 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://jose-lopez-m.vercel.app/" target="_blank">
+  <a href="https://jose-lopez-m.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portafolio-0f172a?style=for-the-badge&logo=vercel&logoColor=0ea5e9" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/joselm2490" target="_blank">
+
+  <a href="https://linkedin.com/in/joselm2490" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn">
   </a>
-  <a href="mailto:joselm2490@gmail.com" target="_blank">
+
+  <a href="mailto:joselm2490@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=0ea5e9" alt="Email">
   </a>
 </p>
