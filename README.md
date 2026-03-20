@@ -23,10 +23,10 @@
 Especializado en el desarrollo de soluciones web robustas. Mi trayectoria se centra en la creación de arquitecturas eficientes y la gestión avanzada de bases de datos, siempre integrando las mejores prácticas del sector.
 
 - 🚀 Transformando requerimientos técnicos en productos escalables.
-- 💡 *"Si puedes imaginarlo, puedes programarlo"*
+- 💡 *"Si puedes imaginarlo, puedes programarlo"* — Alejandro Taboada (Programación ATS)
 <br>
 
-## 🛠️ Tecnologías y Herramientas (Generadas con Shields.io)
+## 🛠️ Tecnologías y Herramientas
 
 ### Backend & Frameworks
 <p align="left">
